@@ -1,2 +1,2 @@
-print("Hello World!")
+print("Hello Buddy!")
 print(2+3)
